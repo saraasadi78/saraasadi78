@@ -13,11 +13,6 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 💬 Contact Me
-
-[![Gmail](https://img.shields.io/badge/-yuebaix@outlook.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:saraasadi7899@gmail.com)
-
-
 
 Here are some ideas to get you started:
 
