@@ -3,10 +3,19 @@
 <!--
 **saraasadi78/saraasadi78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{yuebaix}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
-<br/>
-<img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix" />
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![c](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-007ACC?style=flat-square&
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 💬 Contact Me
+
+[![Gmail](https://img.shields.io/badge/-yuebaix@outlook.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:saraasadi7899@gmail.com)
 
 
 
